@@ -1,7 +1,7 @@
 # Simulação de Investimentos em Fundos Imobiliários 📊
 
 ## 📌 Introdução  
-O Nexto Invest é um projeto que oferece uma planilha interativa no Excel para simular investimentos em fundos imobiliários. Com ela, você pode estimar o crescimento do patrimônio ao longo do tempo, analisar dividendos mensais e comparar diferentes cenários de investimento.
+O Nexo Invest é um projeto que oferece uma planilha interativa no Excel para simular investimentos em fundos imobiliários. Com ela, você pode estimar o crescimento do patrimônio ao longo do tempo, analisar dividendos mensais e comparar diferentes cenários de investimento.
 
 Se você busca uma maneira prática de visualizar suas projeções financeiras e tomar decisões mais informadas, essa ferramenta é para você!
 
