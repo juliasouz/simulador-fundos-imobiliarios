@@ -23,7 +23,7 @@ Este projeto consiste em uma planilha no Excel para simular investimentos em fun
 Aqui estão alguns exemplos da planilha em ação:
 
 ### Visão Geral da Planilha  
-![Visão Geral](https://github.com/user-attachments/assets/a9b0c0e2-b53b-41ca-8d74-ebc4656e77cb)
+![Visão Geral](https://github.com/user-attachments/assets/285c2714-4363-4676-afa7-c06570280ad1)
 
 ### Gráfico de Investimento
 ![Grafico de Investimento](https://github.com/user-attachments/assets/a1c81863-a920-4c2b-ad51-68d3656b8008)
