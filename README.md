@@ -30,9 +30,9 @@ Aqui estão alguns exemplos da planilha em ação:
 ### Gráfico de Investimento
 Os gráficos da planilha do Nexo Invest são dinâmicos e se ajustam conforme o perfil de investimento selecionado. Os principais perfis disponíveis são:
 
-- Conservador – Maior alocação em Fundos de Papel, garantindo estabilidade e previsibilidade nos rendimentos.
+- Conservador – Maior alocação em Fundos de Tijolo e Papel, garantindo estabilidade e previsibilidade nos rendimentos.
 - Moderado – Distribuição mais equilibrada entre Fundos de Tijolo, Híbridos e Desenvolvimento, permitindo crescimento gradual.
-- Agressivo – Maior exposição a Fundos de Desenvolvimento e Hotelaria, aumentando o potencial de retorno, mas com maior risco.
+- Agressivo – Maior exposição a Fundos de Papel e Desenvolvimento, aumentando o potencial de retorno, mas com maior risco.
 
 Cada perfil altera automaticamente a composição da carteira e, consequentemente, impacta os gráficos de evolução patrimonial e dividendos. Isso possibilita ao usuário comparar diferentes estratégias e visualizar qual abordagem melhor atende aos seus objetivos financeiros.
 
